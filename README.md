@@ -18,4 +18,5 @@ Dropdown menu to select a movie
 Displays top 5 recommended movies in columns
 Easy to extend with movie posters or additional features
 
-App link:http://localhost:8501/
+# To run app you can copy file and in terminal write run app.py , press enter
+
