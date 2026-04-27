@@ -18,5 +18,5 @@ Dropdown menu to select a movie
 Displays top 5 recommended movies in columns
 Easy to extend with movie posters or additional features
 
-# To run app you can copy file and in terminal write run app.py , press enter
+# To run app you can copy file and in terminal write streamlit run app.py , press enter
 
