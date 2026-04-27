@@ -17,3 +17,5 @@ Interactive Streamlit UI
 Dropdown menu to select a movie
 Displays top 5 recommended movies in columns
 Easy to extend with movie posters or additional features
+
+App link:http://localhost:8501/
